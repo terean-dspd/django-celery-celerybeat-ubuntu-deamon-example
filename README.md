@@ -1,0 +1,1 @@
+# django-celery-celerybeat-ubuntu-deamon-example
